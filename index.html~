@@ -113,11 +113,14 @@
  <h2 class="section-heading">My Education</h2>
  <div class="row">
                 <div class="col-lg-5 col-sm-6">                    
-                    <h4 class="section-heading">Bachelor of technology(Electronics And Communication):<br></h4>
-                    <p class="lead">I did my engineering graduation in electronics and communication from <a target="_blank" href="http://www.adishankara.ac.in/">Adi Shankara Institute of Engineering and technology</a>, i loved my subjects and enjoyed pursuing it. Thanks to all my faculty members who helped me make those subjects easier.I consider myself fortunate that i could spend time at birthplace of great Adi Shankara.  .</p>
+                    <h4 class="section-heading">Engineering Graduate(ECE):<br></h4>
+                    <p class="lead" align="justify">I did my engineering graduation in electronics and communication from <a target="_blank" href="http://www.adishankara.ac.in/">Adi Shankara Institute of Engineering and technology</a>, i loved my subjects and enjoyed pursuing it. Thanks to all my faculty members who helped me make those subjects easier.I consider myself fortunate that i could spend time at birthplace of great Adi Shankara.  .</p>
+                    <p class="lead" align="justify">It was good that i came to Kerala.It's a place of literacy rate 100%. I got many friends here, i must say even more than i had in my native. The biggest challenge i had was language. During my engineering i didn't just learn curriculum, i enhanced my leadership quality. </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/College_ground.jpg" alt="">
+                    <img class="img-responsive" src="img/ASIETMainGate.jpg" alt="">
+                    
                 </div>
             </div>
  </div>
