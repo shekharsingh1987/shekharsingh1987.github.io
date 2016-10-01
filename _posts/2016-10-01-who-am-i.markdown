@@ -4,7 +4,7 @@ title: Who am i ?
 layout: post
 tags: [Shekhar, Shekhar, Kumar, Shekhar, Singh]
 categories: [Technology]
-permalink: https://shekharsingh1987.github.io/blogs
+permalink: blogs
 ---
 It's my first post, i thought share some info about me. I am no one! according to GOT you can understand my reference what i am talking about if you have watched it. It's true to be any one it's better to be no one. What i me an here is, if you wish to learn many thing and gain many then it's important to be no one. 
 
